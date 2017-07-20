@@ -1,0 +1,1 @@
+[[[9, 9, 'sbesloten', False, [11, 11]], ['sekskamer', 's__s___e_', 'sese'], ['soosvozen', 's__s_o_en', 'soose'], ['sikjesman', 's_______n', 'ses'], ['sauskomen', 's__s_o_en', 'sse'], ['sbesloten', 'sbesloten', 'sese']]]
